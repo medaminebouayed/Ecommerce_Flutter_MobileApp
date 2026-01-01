@@ -1,8 +1,8 @@
 {
   "project_info": {
-    "project_number": "275054285966",
-    "project_id": "flutterecommerce-e882e",
-    "storage_bucket": "flutterecommerce-e882e.appspot.com"
+    "project_number": "Change with your Infos",
+    "project_id": "Change with your Infos",
+    "storage_bucket": "Change with your Infos"
   },
   "client": [
     {
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyD3jiC6Y9ii1_3NHkv8Mkgv0w3sL350xDk"
+          "current_key": "Change with your Infos"
         }
       ],
       "services": {
